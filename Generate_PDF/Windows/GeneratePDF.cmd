@@ -4,4 +4,3 @@ CD
 ..\Source_Files\GeneratePDF.exe
 ECHO.
 CMD /k
-
